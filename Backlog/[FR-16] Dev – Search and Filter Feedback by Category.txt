@@ -1,0 +1,4 @@
+As a Software Developer, I want to filter feedback by category so that I can focus on specific types of issues
+• User selects a feedback category (bug, feature request, usability).
+• System displays filtered feedback results.
+• Results update based on selected category.

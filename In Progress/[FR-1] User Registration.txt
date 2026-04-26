@@ -1,0 +1,7 @@
+As a Customer / End User, I want to create a new account in the system. So that I can log in and submit feedback for software releases.
+
+User must provide required information (name, email, username, password, phone number, etc.)
+
+System validates all input fields and prevents invalid or incomplete submission.
+
+OTP is sent to registered mobile/email and account is created after successful verification.

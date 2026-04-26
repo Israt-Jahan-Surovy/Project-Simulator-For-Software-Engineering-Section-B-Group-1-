@@ -1,0 +1,5 @@
+Maintain mimimum of 99% uptime and perform automatic backups every 24 hours.
+
+Prevent data loss/corruption and handle failures with user-friendly error pages and internal logging.
+
+Ensure no data is lost/corrupted during system failures and customer is unaware of any technical issues.

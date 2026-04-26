@@ -1,0 +1,3 @@
+System must handle growth in releases, users, and data without architectural changes.
+
+Database must efficiently store/retrieve growing data, and system should support adding new roles/features easily.
