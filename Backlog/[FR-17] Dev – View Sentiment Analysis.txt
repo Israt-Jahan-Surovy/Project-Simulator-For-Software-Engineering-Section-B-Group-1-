@@ -1,0 +1,4 @@
+As a Software Developer, I want to view sentiment analysis for a release so that I can understand overall customer perception
+• User selects a release version.
+• System displays overall sentiment score.
+• Sentiment breakdown (positive, neutral, negative) is shown in chart format.

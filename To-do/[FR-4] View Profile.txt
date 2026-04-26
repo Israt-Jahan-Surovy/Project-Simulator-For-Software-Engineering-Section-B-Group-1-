@@ -1,0 +1,8 @@
+As a logged-in user I want to view my profile information,
+So that I can see my registered details.
+
+System displays user’s stored profile information.
+
+Profile details are shown in read-only format.
+
+Only the logged-in user can access their profile.

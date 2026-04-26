@@ -1,0 +1,7 @@
+As a System User (All Roles) I want to access a common header and footer, So that I can navigate and view essential system information.
+
+Header displays logo, username, and logout option.
+
+Footer contains links like About, Privacy, and Disclaimer.
+
+Available across all pages for every user role.

@@ -1,0 +1,4 @@
+As a Product Owner, I want to compare different software versions so that I can decide which features to improve or retain
+• User selects two software versions.
+• System displays comparative satisfaction scores and feedback summary.
+• Results are shown in table and chart format.
