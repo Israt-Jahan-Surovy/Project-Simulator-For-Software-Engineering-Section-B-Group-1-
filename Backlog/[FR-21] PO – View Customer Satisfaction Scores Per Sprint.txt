@@ -1,0 +1,4 @@
+As a Product Owner, I want to view customer satisfaction scores per sprint so that I can evaluate sprint outcomes based on feedback
+• User selects a sprint number.
+• System displays sprint-wise satisfaction score and feedback count.
+• Trend indicator (improved / declined / stable) is shown.
