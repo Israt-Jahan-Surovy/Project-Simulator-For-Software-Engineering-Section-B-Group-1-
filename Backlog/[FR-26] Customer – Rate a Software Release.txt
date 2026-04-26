@@ -1,0 +1,5 @@
+Allow user to select a release and give a numeric rating (1–5).
+
+Ensure rating field is required and input is valid.
+
+Store rating and show notification after successful submission.
