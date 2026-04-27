@@ -1,0 +1,5 @@
+As a Product Owner, I want to view sprint performance and satisfaction tracking
+so that I can assess the effectiveness of each sprint
+• User selects a sprint number.
+• System displays satisfaction score and total feedback count.
+• Report shows issue resolution rate and feature completion rate.

@@ -1,4 +1,0 @@
-As a QA Team Member, I want to track satisfaction score improvement across releases, so that I can evaluate quality progress over time
-• User selects start and end release versions.
-• System displays satisfaction comparison table.
-• Trend chart shows improvement or decline between releases.

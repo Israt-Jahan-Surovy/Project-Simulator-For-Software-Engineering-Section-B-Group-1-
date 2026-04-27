@@ -1,7 +1,0 @@
-As a Project Manager I want to manage system users, So that I can control access and maintain user roles.
-
-System displays list of all users by role.
-
-Admin can add or remove users for each role.
-
-Changes are updated and reflected in the system immediately

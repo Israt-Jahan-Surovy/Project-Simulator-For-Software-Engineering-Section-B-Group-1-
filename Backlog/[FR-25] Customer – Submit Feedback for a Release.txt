@@ -1,5 +1,0 @@
-Provide a form to select release, category, rating, and write feedback.
-
-Validate required fields before submission.
-
-Save feedback to database and show success notification to customer.

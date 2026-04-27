@@ -1,5 +1,0 @@
-UI must be intuitive and consistent so that users can complete the submission process without training.
-
-Forms must have clear labels/placeholders, and system must show success and user-friendly error messages.
-
-Charts/dashboards must include proper labels, legends, and titles for easy understanding.

@@ -1,7 +1,0 @@
-As a Project Manager I want to view satisfaction trends across releases, So that I can analyze performance over time.
-
-User selects multiple releases for comparison.
-
-System displays trend chart of satisfaction scores.
-
-Results show clear increase or decrease patterns across versions.

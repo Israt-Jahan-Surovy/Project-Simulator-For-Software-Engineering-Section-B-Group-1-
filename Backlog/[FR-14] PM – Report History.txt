@@ -1,7 +1,0 @@
-As a Project Manager I want to view previously generated reports, So that I can track past performance analysis.
-
-System displays list of all generated reports.
-
-Each report shows release and generation date.
-
-User can view or download previous reports.

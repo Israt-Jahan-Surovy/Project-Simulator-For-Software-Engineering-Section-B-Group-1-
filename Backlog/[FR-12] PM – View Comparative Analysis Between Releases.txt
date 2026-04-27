@@ -1,8 +1,0 @@
-As a Project Manager I want to compare different software releases,
-So that I can identify performance differences.
-
-User selects two release versions for comparison.
-
-System displays side-by-side satisfaction metrics.
-
-Results include charts and comparative summary table.

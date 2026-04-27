@@ -1,4 +1,0 @@
-As a QA Team Member, I want to filter feedback by category so that I can focus on specific types of reported issues
-• User selects category (Bug Report / Feature Request / Usability Issue).
-• System filters and displays relevant feedback.
-• Filtered results are shown in a structured table format.

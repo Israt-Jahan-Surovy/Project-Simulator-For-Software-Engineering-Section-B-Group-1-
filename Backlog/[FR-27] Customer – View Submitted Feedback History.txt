@@ -1,3 +1,0 @@
-Display a table of user’s past feedback entries.
-
-The table must include release name, rating, category, submission date.

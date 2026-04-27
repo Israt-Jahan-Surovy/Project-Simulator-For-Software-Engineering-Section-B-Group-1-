@@ -1,8 +1,0 @@
-As a logged-in user I want to update my profile picture
-So that my account reflects my current identity.
-
-User uploads a new profile image.
-
-System validates and updates the image.
-
-Updated picture is displayed in the profile.

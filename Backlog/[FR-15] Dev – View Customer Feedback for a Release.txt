@@ -1,4 +1,0 @@
-As a Software Developer, I want to view customer feedback for a specific release So that I can improve features and fix issues
-• User selects a release version.
-• System displays feedback list with category, rating, and review.
-• Feedback data is shown in a structured table format.

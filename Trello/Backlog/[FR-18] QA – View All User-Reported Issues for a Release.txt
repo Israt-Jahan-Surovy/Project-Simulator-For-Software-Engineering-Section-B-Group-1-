@@ -1,0 +1,4 @@
+As a QA Team Member, I want to view all reported issues for a specific release so that I can track problems and validate fixes
+• User selects a release version.
+• System displays issue list with category, description, and status.
+• Issues are shown in a structured table format.

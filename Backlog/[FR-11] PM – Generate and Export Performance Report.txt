@@ -1,7 +1,0 @@
-As a Project Manager I want to generate and export performance reports, So that I can share insights with stakeholders.
-
-User selects release and report format (PDF/CSV).
-
-System generates report with satisfaction data and charts.
-
-Report is downloadable successfully in selected format.

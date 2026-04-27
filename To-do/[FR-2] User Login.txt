@@ -1,7 +1,0 @@
-As a registered user I want to log in using my username and password, So that I can access my role-based dashboard.
-
-User enters valid username and password.
-
-System authenticates credentials securely.
-
-User is redirected to their respective dashboard after successful login.

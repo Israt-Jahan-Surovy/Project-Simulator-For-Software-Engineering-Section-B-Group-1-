@@ -1,7 +1,0 @@
-As a Project Manager I want to view the overall customer satisfaction dashboard, So that I can monitor system performance across releases.
-
-System displays satisfaction score summary and charts.
-
-Shows release-wise feedback and trend data.
-
-Dashboard loads successfully for all available releases.

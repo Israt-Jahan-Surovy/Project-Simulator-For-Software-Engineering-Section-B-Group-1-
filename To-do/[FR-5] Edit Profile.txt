@@ -1,7 +1,0 @@
-As a logged-in user I want to edit my profile information, So that I can keep my personal details updated.
-
-User can modify editable profile fields.
-
-System validates updated information before saving.
-
-Changes are saved and reflected successfully in the profile.

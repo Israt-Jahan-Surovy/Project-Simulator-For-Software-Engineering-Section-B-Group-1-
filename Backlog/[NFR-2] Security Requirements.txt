@@ -1,3 +1,0 @@
-Secure authentication with username/password, encrypted storage (staandard hashing algorithm), HTTPS communication, and auto logout after 30 mins inactivity.
-
-Implement OTP verification (mobile + email) and enforce role-based access control (RBAC) for all user roles.
